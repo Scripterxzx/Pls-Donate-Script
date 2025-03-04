@@ -1,2 +1,3 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Scripterxzx/Patching/refs/heads/main/Patch%20delta'))()
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/3247f21c494678a98f70a38b.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Scripterxzx/Patching/refs/heads/main/Patch%20delta'))()
